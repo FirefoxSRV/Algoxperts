@@ -1,6 +1,6 @@
 # Algoxperts
 --------------------------------------------------------------------  MUST READ  ----------------------------------------------------------------------------
-This repository contains 2 directory :
+This repository contains 2 directories :
         FREE_RTOS  AND 
             HYBRID DATA STRUCTURE ( RADIX HEAP )....( not yet updated )
 
